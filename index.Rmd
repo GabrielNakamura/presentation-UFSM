@@ -131,8 +131,8 @@ But, why we have such fascination about time travel topics? First, of all I beli
 
 .center[
 .pull-left[
-```{r echo=FALSE, out.width="90%", fig.cap="Reconstrução de Burguess", fig.alt= "A a photo with a dog and white flour on the sofa. The dog is with his mouth full of flour"}
- knitr::include_graphics("images/burguess-shale.jpeg")
+```{r echo=FALSE, out.width="100%", fig.cap="Jurassic Park 1", fig.alt= "A a photo with a dog and white flour on the sofa. The dog is with his mouth full of flour"}
+ knitr::include_graphics("images/jurassic_park.jpeg")
 ```
 ]
 ]
@@ -173,7 +173,7 @@ class: center, midle
 background-image: url(images/Clouds.jpg)
 background-size: cover
 
-## Ecologia como uma ciência histórica
+## Evolução como uma ciência histórica
 
 .pull-left[
 ```{r echo=FALSE, out.width="60%", fig.alt= "A a photo with a dog and white flour on the sofa. The dog is with his mouth full of flour"}
@@ -186,7 +186,7 @@ background-size: cover
 
 - O **papel da história** em moldar padrões de biodiversidade
 
-- Fósseis como uma janela pro passado
+- **Fósseis** como uma janela pro passado
 ]
 
 ???
@@ -198,7 +198,7 @@ class: center, midle
 background-image: url(images/Clouds.jpg)
 background-size: cover
 
-## Ecologia como uma ciência histórica - padrões macroecológicos
+## Ecologia como uma ciência histórica - padrões biogeográficos
 
 .pull-left[
 ```{r echo=FALSE, out.width="60%"}
@@ -220,9 +220,9 @@ knitr::include_graphics("images/pyron_geb.png")
 .center[
 .middle[
 
-- A importância de  **eventos históricos em padrões macroecológicos**
+- A importância de  **eventos históricos em padrões biogeográficos**
 
-- **História biogeográfica** de diferentes regiões
+- **História biogeográfica** como explicação para padrões
 
 ]
 ]
@@ -255,6 +255,8 @@ knitr::include_graphics("images/fossil.jpeg")
 
 - **Fósseis** como fotografias do passado
 
+- Nem sempre disponíves, ou muito **fragmentados**
+
 ]
 ]
 
@@ -284,6 +286,7 @@ knitr::include_graphics("images/ancestral_rec_host.png")
 
 - **Modelos macroevolutivos** como fotografias do passado
 
+- Evidências temporais, mas e o **espaço geográfico**?
 ]
 ]
 
@@ -339,6 +342,8 @@ background-size: cover
 
 - Padrões atuais de biodiversidade apresentam **imprints do passado**
 
+- Padrões **ambíguos** - uma evidência, muitos processos
+
 ]
 
 ---
@@ -369,7 +374,7 @@ background-size: cover
 ### Resumindo
 
 ```{r echo=FALSE, out.width="65%", fig.alt= "Herodotools fig1 picture"}
-
+knitr::include_graphics("images/Fig1_schematic_300dpi.png")
 ```
 
 
@@ -386,6 +391,8 @@ background-size: cover
     <h3> Arcabouço teórico integrado </h3>
     <img src="images/integration_2.png" style="width: 100%;">
   </div>
+
+--
 
 <div class="flex" style="margin: 0 1em;">
   <div class="column">
@@ -408,7 +415,7 @@ background-size: cover
 
 - Como compreender o efeito de eventos de diversificação in-situ e eventos ex-situ (ex dispesão)?
 
-- modelos macroevolutivos para estimativa de **área ancestral**
+- modelos macroevolutivos para estimativa de **area ancestral**
 
 - **decompor**  a história evolutiva em eventos **in situ** e **ex-situ**
 ]
@@ -426,6 +433,7 @@ knitr::include_graphics(path = "images/logo_herodotools.png", dpi = 700)
 
 ???
 Here we can see that looking at just the traditional metrics we can see that we take the risk to underestimate the role of amazon assemblages in maintain through time the phylogenetic endemism for these bird assemblages. Since Amazon corresponds to a region in which the phylgoeentic endemism is almost all genereted through in-situ speciation
+
 ---
 name: clouds
 class: center, midle
@@ -435,7 +443,7 @@ background-size: cover
 # Como ligar processos históricos com padrões atuais de biodiversidade
 
 .center[
-```{r echo=FALSE, out.width="85%", fig.alt= "A painting illustrating Darwin's finches" }
+```{r echo=FALSE, out.width="65%", fig.alt= "A painting illustrating Darwin's finches" }
 knitr::include_graphics("images/Fig2_methods_core_300dpi.png")
 ```
 ]
@@ -452,12 +460,12 @@ background-image: url(images/Clouds.jpg)
 background-size: cover
 
 
-## Tools: linking patterns with processes
+## Ligando padrões atuais e processos históricos
 
-### Identification of sources of biodiversity
+### Idade de comunidades
 
 ```{r echo=FALSE, out.width="70%", fig.alt= "a plate with multiple maps showing the proportion of dispersal of each region" }
-knitr::include_graphics("images/disp_from.png")
+knitr::include_graphics("images/assemblage_age.jpeg")
 ```
 
 ???
@@ -469,9 +477,107 @@ class: center, midle
 background-image: url(images/Clouds.jpg)
 background-size: cover
 
-## Application: Conservation decision that recognize both present day patterns and process
+## Ligando padrões atuais e processos históricos
 
-```{r echo=FALSE, out.width="85%", fig.alt= "A painting illustrating Darwin's finches" }
-knitr::include_graphics("images/highlight_PE_amazon.png")
+### Padrões de diversificação in situ
+
+```{r echo=FALSE, out.width="75%", fig.alt= "A painting illustrating Darwin's finches" }
+knitr::include_graphics("images/insitu_diversification.jpeg")
 ```
+
+---
+name: clouds
+class: center, midle
+background-image: url(images/Clouds.jpg)
+background-size: cover
+
+## Ligando padrões atuais e processos históricos
+
+### Padrões de dispersão histórica
+
+```{r echo=FALSE, out.width="75%", fig.alt= "A painting illustrating Darwin's finches" }
+knitr::include_graphics("images/dispersion.jpeg")
+```
+
+---
+name: clouds
+class: center, midle
+background-image: url(images/Clouds.jpg)
+background-size: cover
+
+## Ligando padrões atuais e processos históricos
+
+### Medidas em ecologia filogenética de comunidades
+
+```{r echo=FALSE, out.width="75%", fig.alt= "A painting illustrating Darwin's finches" }
+knitr::include_graphics("images/PEinsitu.jpeg")
+```
+
+---
+name: clouds
+class: center, midle
+background-image: url(images/Clouds.jpg)
+background-size: cover
+
+## Ligando padrões atuais e processos históricos 
+
+### Dinâmica macroevolutiva de atributos em comunidades
+
+```{r echo=FALSE, out.width="75%", fig.alt= "A painting illustrating Darwin's finches" }
+knitr::include_graphics("images/traits_dynamics.jpeg")
+```
+
+---
+name: clouds
+class: center, midle
+background-image: url(images/Clouds.jpg)
+background-size: cover
+
+## Ligando padrões atuais e processos históricos 
+
+### Outras funcionalidades
+
+.pull-left[
+
+```{r echo=FALSE, out.width="75%", fig.alt= "A painting illustrating Darwin's finches" }
+knitr::include_graphics("images/evoregion.jpeg")
+```
+
+]
+
+.pull-right[
+- Definição de **evoregiões** (Duarte e Maestri)
+
+- Manipulação de dados de **reconstrução** (BioGeoBEARS) 
+
+- Outras medidas de **ecologia filogenética de comunidades** (PDinsitu)
+]
+
+```{r echo=FALSE, out.width="75%", fig.alt= "A painting illustrating Darwin's finches" }
+knitr::include_graphics("images/traits_dynamics.jpeg")
+```
+
+---
+name: clouds
+class: center, midle
+background-image: url(images/Clouds.jpg)
+background-size: cover
+
+## Herodotools - contando Histórias em ecologia
+
+### biogeografia + macroevolução + ecologia de comunidades
+
+```{r echo=FALSE, out.width="35%", fig.alt= "A painting illustrating Darwin's finches" }
+  knitr::include_graphics("images/herodotool_summary.jpeg")
+```
+
+---
+name: clouds
+class: center, midle
+background-image: url(images/Clouds.jpg)
+background-size: cover
+
+.pull-right[
+
+<img style="border-radius: 70%;" src="https://publons.com/media/thumbs/academic/photos/4a4ea660b3164621b1cc2a94d5c73634.jpg.200x200_q95_crop_detail_upscale.jpg" width="150px"/> <img style="border-radius: 70%;" src="https://www.ufrgs.br/nerf/images/equipe/larissa.jpg" width="100px"/>
 
