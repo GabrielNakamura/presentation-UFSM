@@ -576,6 +576,32 @@ class: center, midle
 background-image: url(images/Clouds.jpg)
 background-size: cover
 
+## Herodotools - contando Histórias em ecologia
+
+### Perspectivas
+
+.pull-left[
+```{r echo=FALSE, out.width="50%", fig.alt= "A painting illustrating Darwin's finches" }
+  knitr::include_graphics("images/herodotool_summary.jpeg")
+```
+]
+
+.pull-right[
+```{r echo=FALSE, out.width="65%", fig.alt= "A painting illustrating Darwin's finches" }
+  knitr::include_graphics("images/perspective1.jpeg")
+```
+
+- Integração dinâmica macroevolutiva de atributos + Dinâmica de diversificação
+
+]
+
+
+---
+name: clouds
+class: center, midle
+background-image: url(images/Clouds.jpg)
+background-size: cover
+
 .pull-left[
 
 <img style="border-radius: 70%;" src="images/luza.jpeg" width="150px"/> 
