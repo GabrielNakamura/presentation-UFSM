@@ -522,6 +522,33 @@ class: center, midle
 background-image: url(images/Clouds.jpg)
 background-size: cover
 
+## Ligando padrões atuais e processos históricos
+
+### Medidas em ecologia filogenética de comunidades
+
+.pull-left[
+```{r echo=FALSE, out.width="95%", fig.alt= "A painting illustrating Darwin's finches" }
+knitr::include_graphics("images/PEinsitu.jpeg")
+```
+]
+
+--
+
+.pull-right[
+
+- Endemismo no **espaço e tempo**
+
+- Prioridades em conservação baseado em **padrão e processo**
+
+]
+
+
+---
+name: clouds
+class: center, midle
+background-image: url(images/Clouds.jpg)
+background-size: cover
+
 ## Ligando padrões atuais e processos históricos 
 
 ### Dinâmica macroevolutiva de atributos em comunidades
@@ -529,6 +556,32 @@ background-size: cover
 ```{r echo=FALSE, out.width="75%", fig.alt= "A painting illustrating Darwin's finches" }
 knitr::include_graphics("images/traits_dynamics.jpeg")
 ```
+
+---
+name: clouds
+class: center, midle
+background-image: url(images/Clouds.jpg)
+background-size: cover
+
+## Ligando padrões atuais e processos históricos 
+
+### Dinâmica macroevolutiva de atributos em comunidades
+
+.pull-left[
+
+```{r echo=FALSE, out.width="95%", fig.alt= "A painting illustrating Darwin's finches" }
+knitr::include_graphics("images/traits_dynamics.jpeg")
+```
+
+]
+
+.pull-right[
+
+```{r echo=FALSE, out.width="75%", fig.alt= "A painting illustrating Darwin's finches" }
+knitr::include_graphics("images/luzaetal.jpeg")
+```
+
+]
 
 ---
 name: clouds
