@@ -539,7 +539,7 @@ background-size: cover
 
 .pull-left[
 
-```{r echo=FALSE, out.width="75%", fig.alt= "A painting illustrating Darwin's finches" }
+```{r echo=FALSE, out.width="75%"}
 knitr::include_graphics("images/evoregion.jpeg")
 ```
 
@@ -553,10 +553,6 @@ knitr::include_graphics("images/evoregion.jpeg")
 - Outras medidas de **ecologia filogenética de comunidades** (PDinsitu)
 ]
 
-```{r echo=FALSE, out.width="75%", fig.alt= "A painting illustrating Darwin's finches" }
-knitr::include_graphics("images/traits_dynamics.jpeg")
-```
-
 ---
 name: clouds
 class: center, midle
@@ -567,7 +563,7 @@ background-size: cover
 
 ### biogeografia + macroevolução + ecologia de comunidades
 
-```{r echo=FALSE, out.width="35%", fig.alt= "A painting illustrating Darwin's finches" }
+```{r echo=FALSE, out.width="25%", fig.alt= "A painting illustrating Darwin's finches" }
   knitr::include_graphics("images/herodotool_summary.jpeg")
 ```
 
@@ -577,7 +573,41 @@ class: center, midle
 background-image: url(images/Clouds.jpg)
 background-size: cover
 
+.pull-left[
+
+<img style="border-radius: 70%;" src="images/luza.jpeg" width="150px"/> 
+<img style="border-radius: 70%;" src="images/arthur.jpeg" width="150px"/> 
+
+<img style="border-radius: 70%;" src="images/renan.jpeg" width="150px"/> 
+<img style="border-radius: 70%;" src="images/vander.jpeg" width="150px"/> 
+
+
+<img style="border-radius: 70%;" src="https://publons.com/media/thumbs/academic/photos/4a4ea660b3164621b1cc2a94d5c73634.jpg.200x200_q95_crop_detail_upscale.jpg" width="150px"/> 
+
+
+]
+
 .pull-right[
 
-<img style="border-radius: 70%;" src="https://publons.com/media/thumbs/academic/photos/4a4ea660b3164621b1cc2a94d5c73634.jpg.200x200_q95_crop_detail_upscale.jpg" width="150px"/> <img style="border-radius: 70%;" src="https://www.ufrgs.br/nerf/images/equipe/larissa.jpg" width="100px"/>
+.center[
+.middle[
+### André Luza - UFSM
 
+### Arthur Rodrigues - University of Helsinki 
+
+### Renan Maestri - UFRGS
+
+### Vanderlei Debastiani - UFRGS
+
+### Leandro Duarte - UFRGS
+
+```{r echo=FALSE, out.width="85%", fig.alt= "A painting illustrating Darwin's finches"}
+
+knitr::include_graphics("images/Herodotools-overview.jpeg")
+
+```
+
+]
+]
+
+]
