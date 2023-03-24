@@ -577,7 +577,7 @@ knitr::include_graphics("images/traits_dynamics.jpeg")
 
 .pull-right[
 
-```{r echo=FALSE, out.width="75%", fig.alt= "A painting illustrating Darwin's finches" }
+```{r echo=FALSE, out.width="85%", fig.alt= "A painting illustrating Darwin's finches" }
 knitr::include_graphics("images/luzaetal.jpeg")
 ```
 
