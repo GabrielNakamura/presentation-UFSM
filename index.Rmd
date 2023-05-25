@@ -358,7 +358,7 @@ background-size: cover
 ### Resumindo
 
 ```{r echo=FALSE, out.width="65%", fig.alt= "Herodotools fig1 picture"}
-knitr::include_graphics("images/Fig1_schematic_300dpi.png")
+knitr::include_graphics("images/Fig1_schematic_300dpi.jpeg")
 ```
 
 
@@ -407,7 +407,7 @@ background-size: cover
 .pull-right[
 
 ```{r echo=FALSE, out.width="85%", fig.alt= "Herodotools fig1 picture"}
-knitr::include_graphics("images/Fig1_schematic_300dpi.png")
+knitr::include_graphics("images/Fig1_schematic_300dpi.jpeg")
 ```
 
 ]
@@ -436,7 +436,7 @@ background-size: cover
 
 .center[
 ```{r echo=FALSE, out.width="45%", fig.alt= "A painting illustrating Darwin's finches" }
-knitr::include_graphics("images/Fig2_methods_core_300dpi.png")
+knitr::include_graphics("images/Fig2_methods_core_300dpi.jpeg")
 ```
 ]
 
